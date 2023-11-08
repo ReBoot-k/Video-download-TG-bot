@@ -1,0 +1,5 @@
+ADMIN_ID = []
+BOT_TOKEN = ''
+
+MAX_SIZE_FILE = '1.95 GB'
+NOT_CALCULATED = 'N/A'
